@@ -1,6 +1,6 @@
 ### View my portfolio at [AlexKernot.GitHub.io](AlexKernot.GitHub.io)
 
-My name is Alex Kernot and this is my personal account. I specialize in coding in C#/C++ and primarily make math/simulation based programs. I'd love to venture into AI and I plan to major in it at university
+Welcome to my personal account. I specialize in coding in C#/C++ and primarily make math/simulation based programs. I'd love to venture into AI and I plan to major in it at university next year
 
 <!--
 **AlexKernot/AlexKernot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
