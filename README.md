@@ -1,4 +1,4 @@
-### View my portfolio at [AlexKernot.GitHub.io](AlexKernot.GitHub.io)
+### View my portfolio at [https://AlexKernot.GitHub.io](AlexKernot.GitHub.io)
 
 Welcome to my personal account. I specialize in coding in C#/C++ and primarily make math/simulation based programs. I'd love to venture into AI and I plan to major in it at university next year
 
